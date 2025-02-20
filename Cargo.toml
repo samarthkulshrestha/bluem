@@ -1,6 +1,15 @@
 [package]
 name = "bluem"
 version = "0.1.0"
+authors = ["Samarth Kulshrestha <samarthkulshrestha@protonmail.com>"]
+description = "A fast standard Bloom Filter implementation"
+documentation = "https://github.com/samarthkulshrestha/bluem"
+homepage = "https://github.com/samarthkulshrestha/bluem"
+repository = "https://github.com/samarthkulshrestha/bluem"
+readme = "README.md"
+keywords = ["bloom-filter", "bloomfilter", "bloom", "filter", "probabilistic",
+  "data-structure"]
+license = "MIT"
 edition = "2021"
 
 [dependencies]
